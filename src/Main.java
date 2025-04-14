@@ -11,10 +11,10 @@ public class Main {
         residuo.setQuantidade(20);
         residuo.setDataColeta(20);
 
-
-        System.out.println(verde.getNome());
-
-        System.out.println(residuo.getTipoResiduo());
+        residuo.postartela(verde.getNome());
+//        System.out.println(verde.getNome());
+//
+//        System.out.println(residuo.getTipoResiduo());
 
     }
 }
