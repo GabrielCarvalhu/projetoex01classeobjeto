@@ -58,4 +58,15 @@ public class AreaVerde {
     public void setTamanho(String tamanho) {
         this.tamanho = tamanho;
     }
+
+    public double calcularTamanhoEmHectares(Double hectares){
+        return hectares;
+    }
+
+    public String exibirInformacoes(String informacoestela){
+        return informacoestela;
+    }
+
+
+
 }

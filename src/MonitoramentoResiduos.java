@@ -61,4 +61,12 @@ public class MonitoramentoResiduos {
         System.out.println(print);
         return print;
     }
+
+    public double calcularResiduosPorMes( double residuo){
+        return residuo;
+    }
+
+    public String exibirInformacoes(String exibir){
+        return exibir;
+    }
 }
